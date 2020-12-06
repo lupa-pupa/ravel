@@ -1,5 +1,5 @@
 {
-  "name": "ravel-front",
+  "name": "ravel-front-end",
   "version": "0.0.1",
   "scripts": {
     "dev": "next dev",

@@ -1,4 +1,4 @@
-# Ravel front
+# Ravel front-end
 
 ### Commands
 
