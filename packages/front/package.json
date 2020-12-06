@@ -1,0 +1,24 @@
+{
+  "name": "ravel-front",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "types:check": "npx tsc",
+    "format:check": "npx prettier --check pages",
+    "lint:check": "npx eslint pages --ext .ts,.tsx"
+  },
+  "dependencies": {
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "eslint-plugin-react": "^7.21.5",
+    "typescript": "^4.1.2"
+  }
+}
